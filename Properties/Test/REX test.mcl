@@ -1,0 +1,66 @@
+﻿#{
+{
+	public a = 1 :gth;
+	internal b = 2 :gth;
+	protected c = 3 :gth;
+	private d = 4 :gth;
+	{
+		echo "public a=>",a,"<br>","internal b=>",b,"<br>","protected c=>",c,"<br>","private d=>",d,"<br>";
+	};
+	"<hr>";
+	echo "public a=>",a,"<br>","internal b=>",b,"<br>","protected c=>",c,"<br>","private d=>",d,"<br>";
+};
+"<hr>";
+echo "public a=>",a,"<br>","internal b=>",b,"<br>","protected c=>",c,"<br>","private d=>",d,"<br>";
+"<hr>";
+{
+	echo "public a=>",a,"<br>","internal b=>",b,"<br>","protected c=>",c,"<br>","private d=>",d,"<br>";
+	"<hr>";
+	{
+	echo "public a=>",a,"<br>","internal b=>",b,"<br>","protected c=>",c,"<br>","private d=>",d,"<br>";
+	};
+};
+"<hr>";
+
+
+set function shw(var col = {e;i;pi})
+{
+	foreach(item,col)
+		{echo item,"<br>"; };
+	"<hr>";
+	break;
+	echo "Hello Words";
+};
+set function shw2()
+{
+	for(i=0,i < 6,i=i+1)
+		if(item != i){echo i,"<br>"; };
+	"<hr>";
+	break;
+	for(i=0,i < 6,i=i+1)
+		{echo i,"<br>"; };
+	echo "Hello Words";
+};
+public function main()
+{
+	echo "Matching words start with 'm' and ends with 'e'","<br>";
+	var inp = "make maze and manage to measure it";
+	var pat = "\bm\S*e\b";
+	echo shw((rex inp,pat -_M)) -e;
+};
+main();
+"<hr>";
+function tpr1()
+{
+return "tpr1 success <br>";
+};
+tpr1();
+"<hr>";
+{
+private function tpr2()
+{
+return "tpr2 success <br>";
+};
+tpr2();
+};
+}#

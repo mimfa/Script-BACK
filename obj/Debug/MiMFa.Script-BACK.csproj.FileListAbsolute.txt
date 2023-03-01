@@ -1,0 +1,58 @@
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\ClearScriptV8.win-x86.dll
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\ClearScriptV8.win-x64.dll
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\ClearScriptV8.ICU.dat
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\x64\SQLite.Interop.dll
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\x86\SQLite.Interop.dll
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Script-BACK.exe.config
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Script-BACK.exe
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Script-BACK.pdb
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.dll
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.Interpreter.dll
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\System.Data.SQLite.dll
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\HtmlAgilityPack.dll
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\ClearScript.Core.dll
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\ClearScript.Windows.dll
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\ClearScript.V8.dll
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\ClearScript.Windows.Core.dll
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.pdb
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.dll.config
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.Interpreter.pdb
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\HtmlAgilityPack.pdb
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\HtmlAgilityPack.xml
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MiMFa.Script-BACK.csproj.AssemblyReference.cache
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MainWindow.g.cs
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MiMFa Script-BACK_Content.g.cs
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MiMFa Script-BACK_MarkupCompile.cache
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MiMFa Script-BACK_MarkupCompile.lref
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MainWindow.baml
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MiMFa Script-BACK.g.resources
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MiMFa.Properties.Resources.resources
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MiMFa.Script-BACK.csproj.GenerateResource.cache
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MiMFa.Script-BACK.csproj.CoreCompileInputs.cache
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MiMFa.Script-BACK.csproj.CopyComplete
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MiMFa Script-BACK.exe
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MiMFa Script-BACK.pdb
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Library\CanvasJS-Chart.js
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Library\Chart.js
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Library\Google-Chart.js
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Library\JQuery-SparkLine.js
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Library\JQuery.js
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Library\Math.js
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\Html\Scripts\Default.js
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\Html\Styles\Default.css
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\Html\Styles\Preset.css
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\Html\Styles\Reset.css
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\Html\Fonts\DUBAI-BOLD.TTF
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\Html\Fonts\DefaultFont.TTF
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\Html\Fonts\DUBAI-LIGHT.TTF
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\Html\Fonts\DUBAI-MEDIUM.TTF
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\Html\Fonts\DUBAI-REGULAR.TTF
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\Array\Array.js
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\General\Global.js
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\Html\Html.js
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\Math\Global.js
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\Math\Math.js
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\String\String.js
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\String\Text.js
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\System\System.js
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\View\Global.js

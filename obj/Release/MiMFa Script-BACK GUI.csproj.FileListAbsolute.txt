@@ -1,0 +1,23 @@
+D:\MiMFa\My Product\Software\Desktop\MiMFa Script-BACK\MiMFa Script-BACK GUI\MiMFa Script-BACK GUI\bin\Release\MiMFa Script-BACK.exe.config
+D:\MiMFa\My Product\Software\Desktop\MiMFa Script-BACK\MiMFa Script-BACK GUI\MiMFa Script-BACK GUI\bin\Release\x64\SQLite.Interop.dll
+D:\MiMFa\My Product\Software\Desktop\MiMFa Script-BACK\MiMFa Script-BACK GUI\MiMFa Script-BACK GUI\bin\Release\x86\SQLite.Interop.dll
+D:\MiMFa\My Product\Software\Desktop\MiMFa Script-BACK\MiMFa Script-BACK GUI\MiMFa Script-BACK GUI\bin\Release\MiMFa Script-BACK.exe
+D:\MiMFa\My Product\Software\Desktop\MiMFa Script-BACK\MiMFa Script-BACK GUI\MiMFa Script-BACK GUI\bin\Release\MiMFa Script-BACK.pdb
+D:\MiMFa\My Product\Software\Desktop\MiMFa Script-BACK\MiMFa Script-BACK GUI\MiMFa Script-BACK GUI\bin\Release\MiMFa Framework.dll
+D:\MiMFa\My Product\Software\Desktop\MiMFa Script-BACK\MiMFa Script-BACK GUI\MiMFa Script-BACK GUI\bin\Release\MiMFa Framework.Exclusive.dll
+D:\MiMFa\My Product\Software\Desktop\MiMFa Script-BACK\MiMFa Script-BACK GUI\MiMFa Script-BACK GUI\bin\Release\MiMFa Framework.ScriptBACK.dll
+D:\MiMFa\My Product\Software\Desktop\MiMFa Script-BACK\MiMFa Script-BACK GUI\MiMFa Script-BACK GUI\bin\Release\System.Data.SQLite.dll
+D:\MiMFa\My Product\Software\Desktop\MiMFa Script-BACK\MiMFa Script-BACK GUI\MiMFa Script-BACK GUI\bin\Release\MiMFa Framework.pdb
+D:\MiMFa\My Product\Software\Desktop\MiMFa Script-BACK\MiMFa Script-BACK GUI\MiMFa Script-BACK GUI\bin\Release\MiMFa Framework.Exclusive.pdb
+D:\MiMFa\My Product\Software\Desktop\MiMFa Script-BACK\MiMFa Script-BACK GUI\MiMFa Script-BACK GUI\bin\Release\MiMFa Framework.ScriptBACK.pdb
+D:\MiMFa\My Product\Software\Desktop\MiMFa Script-BACK\MiMFa Script-BACK GUI\MiMFa Script-BACK GUI\obj\Release\MiMFa Script-BACK GUI.csprojResolveAssemblyReference.cache
+D:\MiMFa\My Product\Software\Desktop\MiMFa Script-BACK\MiMFa Script-BACK GUI\MiMFa Script-BACK GUI\obj\Release\MainWindow.g.cs
+D:\MiMFa\My Product\Software\Desktop\MiMFa Script-BACK\MiMFa Script-BACK GUI\MiMFa Script-BACK GUI\obj\Release\MiMFa Script-BACK_Content.g.cs
+D:\MiMFa\My Product\Software\Desktop\MiMFa Script-BACK\MiMFa Script-BACK GUI\MiMFa Script-BACK GUI\obj\Release\MiMFa Script-BACK_MarkupCompile.cache
+D:\MiMFa\My Product\Software\Desktop\MiMFa Script-BACK\MiMFa Script-BACK GUI\MiMFa Script-BACK GUI\obj\Release\MiMFa Script-BACK_MarkupCompile.lref
+D:\MiMFa\My Product\Software\Desktop\MiMFa Script-BACK\MiMFa Script-BACK GUI\MiMFa Script-BACK GUI\obj\Release\MainWindow.baml
+D:\MiMFa\My Product\Software\Desktop\MiMFa Script-BACK\MiMFa Script-BACK GUI\MiMFa Script-BACK GUI\obj\Release\MiMFa Script-BACK.g.resources
+D:\MiMFa\My Product\Software\Desktop\MiMFa Script-BACK\MiMFa Script-BACK GUI\MiMFa Script-BACK GUI\obj\Release\UIL.Properties.Resources.resources
+D:\MiMFa\My Product\Software\Desktop\MiMFa Script-BACK\MiMFa Script-BACK GUI\MiMFa Script-BACK GUI\obj\Release\MiMFa Script-BACK GUI.csproj.GenerateResource.Cache
+D:\MiMFa\My Product\Software\Desktop\MiMFa Script-BACK\MiMFa Script-BACK GUI\MiMFa Script-BACK GUI\obj\Release\MiMFa Script-BACK.exe
+D:\MiMFa\My Product\Software\Desktop\MiMFa Script-BACK\MiMFa Script-BACK GUI\MiMFa Script-BACK GUI\obj\Release\MiMFa Script-BACK.pdb

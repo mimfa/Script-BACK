@@ -1,0 +1,29 @@
+D:\MiMFa\My Product\Software\MiMFa Framework\MiMFa Command Language GUI\MiMFa Command Language GUI\bin\Release\MiMFa Framework.dll
+D:\MiMFa\My Product\Software\MiMFa Framework\MiMFa Command Language GUI\MiMFa Command Language GUI\bin\Release\System.Data.SQLite.dll
+D:\MiMFa\My Product\Software\MiMFa Framework\MiMFa Command Language GUI\MiMFa Command Language GUI\bin\Release\MiMFa Framework.pdb
+D:\MiMFa\My Product\Software\MiMFa Framework\MiMFa Command Language GUI\MiMFa Command Language GUI\obj\Release\MiMFa Command Language GUI.csprojResolveAssemblyReference.cache
+D:\MiMFa\My Product\Software\MiMFa Framework\MiMFa Command Language GUI\MiMFa Command Language GUI\obj\Release\MainWindow.g.cs
+D:\MiMFa\My Product\Software\MiMFa Framework\MiMFa Command Language GUI\MiMFa Command Language GUI\obj\Release\MainWindow.baml
+D:\MiMFa\My Product\Software\MiMFa Framework\MiMFa Command Language GUI\MiMFa Command Language GUI\obj\Release\UIL.Properties.Resources.resources
+D:\MiMFa\My Product\Software\MiMFa Framework\MiMFa Command Language GUI\MiMFa Command Language GUI\obj\Release\MiMFa Command Language GUI.csproj.GenerateResource.Cache
+D:\MiMFa\My Product\Software\MiMFa Framework\MiMFa Command Language GUI\MiMFa Command Language GUI\bin\Release\x64\SQLite.Interop.dll
+D:\MiMFa\My Product\Software\MiMFa Framework\MiMFa Command Language GUI\MiMFa Command Language GUI\bin\Release\x86\SQLite.Interop.dll
+D:\MiMFa\My Product\Software\MiMFa Framework\MiMFa Command Language GUI\MiMFa Command Language GUI\bin\Release\AxInterop.WMPLib.dll
+D:\MiMFa\My Product\Software\MiMFa Framework\MiMFa Command Language GUI\MiMFa Command Language GUI\bin\Release\Interop.WMPLib.dll
+D:\MiMFa\My Product\Software\MiMFa Framework\MiMFa Command Language GUI\MiMFa Command Language GUI\bin\Release\Aspose.Words.dll
+D:\MiMFa\My Product\Software\MiMFa Framework\MiMFa Command Language GUI\MiMFa Command Language GUI\bin\Release\MiMFa Framework.AI.dll
+D:\MiMFa\My Product\Software\MiMFa Framework\MiMFa Command Language GUI\MiMFa Command Language GUI\bin\Release\MiMFa Framework.Exclusive.dll
+D:\MiMFa\My Product\Software\MiMFa Framework\MiMFa Command Language GUI\MiMFa Command Language GUI\bin\Release\MiMFa Framework.Windows.dll
+D:\MiMFa\My Product\Software\MiMFa Framework\MiMFa Command Language GUI\MiMFa Command Language GUI\bin\Release\MiMFa Framework.AI.pdb
+D:\MiMFa\My Product\Software\MiMFa Framework\MiMFa Command Language GUI\MiMFa Command Language GUI\bin\Release\MiMFa Framework.Exclusive.pdb
+D:\MiMFa\My Product\Software\MiMFa Framework\MiMFa Command Language GUI\MiMFa Command Language GUI\bin\Release\MiMFa Framework.Windows.pdb
+D:\MiMFa\My Product\Software\MiMFa Framework\MiMFa Command Language GUI\MiMFa Command Language GUI\bin\Release\fa\MiMFa Framework.Windows.resources.dll
+D:\MiMFa\My Product\Software\MiMFa Framework\MiMFa Command Language GUI\MiMFa Command Language GUI\bin\Release\MiMFa Web Based Application Custom-made Kit.exe.config
+D:\MiMFa\My Product\Software\MiMFa Framework\MiMFa Command Language GUI\MiMFa Command Language GUI\bin\Release\MiMFa Web Based Application Custom-made Kit.exe
+D:\MiMFa\My Product\Software\MiMFa Framework\MiMFa Command Language GUI\MiMFa Command Language GUI\bin\Release\MiMFa Web Based Application Custom-made Kit.pdb
+D:\MiMFa\My Product\Software\MiMFa Framework\MiMFa Command Language GUI\MiMFa Command Language GUI\obj\Release\MiMFa Web Based Application Custom-made Kit_Content.g.cs
+D:\MiMFa\My Product\Software\MiMFa Framework\MiMFa Command Language GUI\MiMFa Command Language GUI\obj\Release\MiMFa Web Based Application Custom-made Kit_MarkupCompile.cache
+D:\MiMFa\My Product\Software\MiMFa Framework\MiMFa Command Language GUI\MiMFa Command Language GUI\obj\Release\MiMFa Web Based Application Custom-made Kit_MarkupCompile.lref
+D:\MiMFa\My Product\Software\MiMFa Framework\MiMFa Command Language GUI\MiMFa Command Language GUI\obj\Release\MiMFa Web Based Application Custom-made Kit.g.resources
+D:\MiMFa\My Product\Software\MiMFa Framework\MiMFa Command Language GUI\MiMFa Command Language GUI\obj\Release\MiMFa Web Based Application Custom-made Kit.exe
+D:\MiMFa\My Product\Software\MiMFa Framework\MiMFa Command Language GUI\MiMFa Command Language GUI\obj\Release\MiMFa Web Based Application Custom-made Kit.pdb
