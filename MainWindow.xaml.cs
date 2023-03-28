@@ -17,7 +17,7 @@ using MiMFa.Interpreters.Engine;
 using MiMFa.Service;
 using MiMFa.WPF.Service;
 
-namespace MiMFa_Command_Language_GUI
+namespace MiMFa.UIL
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

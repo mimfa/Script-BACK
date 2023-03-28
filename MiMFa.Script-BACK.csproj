@@ -55,6 +55,9 @@
   <PropertyGroup>
     <ApplicationIcon>MiMFa Script-BACK.ico</ApplicationIcon>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>MiMFa.UIL.Program</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Data" />

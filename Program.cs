@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MiMFa_Command_Language_GUI
+namespace MiMFa.UIL
 {
     public static class Program
     {
