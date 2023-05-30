@@ -23,7 +23,6 @@ D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\D
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MainWindow.g.cs
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MiMFa Script-BACK_Content.g.cs
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MiMFa Script-BACK_MarkupCompile.cache
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MiMFa Script-BACK_MarkupCompile.lref
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MainWindow.baml
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MiMFa Script-BACK.g.resources
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MiMFa.Properties.Resources.resources

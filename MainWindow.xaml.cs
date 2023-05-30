@@ -1,17 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
 using System.Windows.Documents;
 using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
-using System.Windows.Shapes;
 using MiMFa.Interpreters;
 using MiMFa.Interpreters.Engine;
 using MiMFa.Service;
@@ -24,7 +19,7 @@ namespace MiMFa.UIL
     /// </summary>
     public partial class MainWindow : Window
     {
-        public IInterpreter SBACK = new JavaScriptV8();
+        public InterpreterBase SBACK = new JavaScriptV8();
         string StartHTML = "<!--MiMFa Script-BACK-->";//"<!--MCL GUI-->";
         string EndHTML = "<!--MiMFa Script-BACK-->";//"<!--MCL GUI-->";
         List<string> ListCommand = new List<string>(); 
@@ -34,7 +29,7 @@ namespace MiMFa.UIL
         { 
             InitializeComponent();
             SBACK.Initialize();
-            SBACK.InjectDefaultAssemblies();
+            SBACK.Use();
         }
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
@@ -83,7 +78,8 @@ namespace MiMFa.UIL
                 switch (e.Key)
                 {
                     case Key.F5:
-                        Execute();
+                        if(Ctrl) ExecuteAsync();
+                        else Execute();
                         break;
                     case Key.Escape:
                         (new TextRange(rtb.Document.ContentStart, rtb.Document.ContentEnd)).Text = "";
@@ -109,17 +105,17 @@ namespace MiMFa.UIL
         {
             Execute();
         }
-        private void button_Copy_Click(object sender, RoutedEventArgs e)
+        private void button_Async_Click(object sender, RoutedEventArgs e)
         {
             ExecuteAsync();
         }
         bool exec = false;
         bool navigating = false;
-        public  Task ExecuteAsync()
+        public Task ExecuteAsync()
         {
             return ExecuteAsync(new TextRange(rtb.Document.ContentStart, rtb.Document.ContentEnd).Text);
         }
-        public  Task ExecuteAsync(string m)
+        public Task ExecuteAsync(string m)
         {
             return ProcessService.RunTask(() =>
             {
@@ -135,7 +131,7 @@ namespace MiMFa.UIL
                 {
                     exec = false;
                     Title = System.IO.Path.GetFileNameWithoutExtension(item);
-                    HandleFileOpen(item, true);
+                    HandleFile(item, true);
                 }
             }
             else BrowserBehavior.SetHTML(WB, "<center><h3>Welcome to Script-BACK</h3><h6>MiMFa Script Based Application Custom-made Kernel</h6></center>Press the \"F5\" key, for execute your scripts!<br>Enjoy...");
@@ -152,16 +148,44 @@ namespace MiMFa.UIL
                 v = SBACK.Evaluate(m);
                 exec = true;
                 BrowserBehavior.SetHTML(WB, StartHTML + v + EndHTML);
-                BrowserBehavior.SetHTML(WB, StartHTML + v + EndHTML);
-                LV.Items.Insert(0, m.Trim());
-                ListCommand.Insert(0, BrowserBehavior.GetHTML(WB));
-                LV.MaxHeight = LV.MinHeight;
+                Store(m);
             }
             catch (Exception ex)
             {
                 MessageBox.Show("Error: " + ex.Message + Environment.NewLine + "Command: " + m + Environment.NewLine + "Result: " + v);
             }
         }
+        private void Navigated()
+        {
+            if (exec)
+            {
+                exec = navigating = false;
+                TextRange textRange = new TextRange(rtb.Document.ContentStart, rtb.Document.ContentEnd);
+                textRange.Text = "";
+            }
+        }
+        private void HandleFile(string v, bool execute)
+        {
+            if (!execute) (new TextRange(rtb.Document.ContentStart, rtb.Document.ContentEnd)).Text = IOService.ReadText(v);
+            else
+            {
+                EventActivity = false;
+                Execute(IOService.ReadText(v,Encoding.UTF8));
+                EventActivity = true;
+            }
+        }
+        private void Store(string m, bool force = false)
+        {
+            m = m.Trim();
+            int ind = LV.Items.IndexOf(m);
+            if (force || ind < 0 || (ListCommand[ind] != BrowserBehavior.GetHTML(WB)))
+            {
+                LV.Items.Insert(0, m);
+                ListCommand.Insert(0, BrowserBehavior.GetHTML(WB));
+            }
+            //LV.MaxHeight = LV.MinHeight;
+        }
+
         private void LV_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             TextRange textRange = new TextRange(rtb.Document.ContentStart, rtb.Document.ContentEnd);
@@ -181,24 +205,13 @@ namespace MiMFa.UIL
         {
             Navigated();
         }
-        private void Navigated()
-        {
-            if (exec)
-            {
-                exec = navigating = false;
-                TextRange textRange = new TextRange(rtb.Document.ContentStart, rtb.Document.ContentEnd);
-                LV.Items.Insert(0, textRange.Text = textRange.Text.Trim());
-                ListCommand.Insert(0, BrowserBehavior.GetHTML(WB));
-                textRange.Text = "";
-                LV.MaxHeight = LV.MinHeight;
-            }
-        }
+
         private void rtb_Drop(object sender, DragEventArgs e)
         {
             if (e.Data.GetDataPresent(DataFormats.FileDrop))
             {
                 string[] files = (string[])e.Data.GetData(DataFormats.FileDrop);
-                HandleFileOpen(files[0],false);
+                HandleFile(files[0], false);
             }
         }
         private void button_Drop(object sender, DragEventArgs e)
@@ -206,20 +219,9 @@ namespace MiMFa.UIL
             if (e.Data.GetDataPresent(DataFormats.FileDrop))
             {
                 string[] files = (string[])e.Data.GetData(DataFormats.FileDrop);
-                HandleFileOpen(files[0], true);
+                HandleFile(files[0], true);
             }
         }
-        private void HandleFileOpen(string v, bool execute)
-        {
-            if (!execute) (new TextRange(rtb.Document.ContentStart, rtb.Document.ContentEnd)).Text = IOService.ReadText(v);
-            else
-            {
-                EventActivity = false;
-                Execute(IOService.ReadText(v,Encoding.UTF8));
-                EventActivity = true;
-            }
-        }
-
     }
 }
 

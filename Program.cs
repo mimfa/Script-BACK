@@ -11,6 +11,7 @@ namespace MiMFa.UIL
         [STAThread]
         public static void Main(params string[] Args)
         {
+            Config.Initial();
             var m = new MainWindow();
             m.Execute(Args);
             m.ShowDialog();

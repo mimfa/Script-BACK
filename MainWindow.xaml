@@ -3,13 +3,12 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:MiMFa"
         mc:Ignorable="d"
         Title="MiMFa Script Based Application Custom-made Kit (Graphic User Interface)" Height="447.029" Width="750.248" Loaded="Window_Loaded" AllowDrop="True" Drop="button_Drop" VerticalContentAlignment="Stretch">
     <DockPanel VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Margin="0,0,0,0" AllowDrop="True">
-        <DockPanel x:Name="dp" HorizontalAlignment="Stretch" DockPanel.Dock="Top" VerticalAlignment="Top" AllowDrop="True">
-            <ListView x:Name="LV" VerticalContentAlignment="Stretch" SelectionChanged="LV_SelectionChanged" MinHeight="10" ScrollViewer.HorizontalScrollBarVisibility="Hidden" MaxHeight="70" BorderBrush="#FFC7C7C7" Foreground="Black" Background="White" FontFamily="Arial" ScrollViewer.CanContentScroll="True" IsTabStop="True" TabIndex="1" ScrollViewer.VerticalScrollBarVisibility="Auto" RenderTransformOrigin="0.5,0.5" HorizontalContentAlignment="Stretch" BorderThickness="0,0,0,1" Width="282" DockPanel.Dock="Right" Margin="0" HorizontalAlignment="Right" VerticalAlignment="Top" Height="{Binding Height, ElementName=rtb}" />
-            <RichTextBox x:Name="rtb" Focusable="True" VerticalAlignment="Top"  KeyUp="textBox_KeyUp" FontSize="16" ScrollViewer.CanContentScroll="True" TextChanged="rtb_TextChanged" VerticalScrollBarVisibility="Auto" Margin="0" HorizontalScrollBarVisibility="Auto" TabIndex="0" MinWidth="0" MinHeight="50" MaxHeight="300" SizeChanged="rtb_SizeChanged" AcceptsTab="True" IsManipulationEnabled="True" ForceCursor="True" SpellCheck.IsEnabled="True" UndoLimit="1000" Cursor="" IsDocumentEnabled="True" KeyDown="rtb_KeyDown" DockPanel.Dock="Top" BorderThickness="0,0,0,1" FontFamily="Arial" FontStretch="Condensed" Block.LineHeight="1" Height="69">
+        <DockPanel x:Name="dp" HorizontalAlignment="Stretch" DockPanel.Dock="Top" VerticalAlignment="Top" AllowDrop="True" LastChildFill="False">
+            <ListView x:Name="LV" VerticalContentAlignment="Stretch" SelectionChanged="LV_SelectionChanged" ScrollViewer.HorizontalScrollBarVisibility="Hidden" BorderBrush="#FFC7C7C7" Foreground="Black" Background="White" FontFamily="Arial" ScrollViewer.CanContentScroll="True" IsTabStop="True" TabIndex="1" ScrollViewer.VerticalScrollBarVisibility="Auto" RenderTransformOrigin="0.5,0.5" HorizontalContentAlignment="Stretch" BorderThickness="0,0,0,1" Width="282" DockPanel.Dock="Right" Margin="0" HorizontalAlignment="Right" VerticalAlignment="Top" Height="{Binding Height, ElementName=rtb}" MinHeight="50" />
+            <RichTextBox x:Name="rtb" Focusable="True" VerticalAlignment="Top"  KeyUp="textBox_KeyUp" FontSize="16" ScrollViewer.CanContentScroll="True" TextChanged="rtb_TextChanged" VerticalScrollBarVisibility="Auto" Margin="0" HorizontalScrollBarVisibility="Auto" TabIndex="0" MinWidth="0" MinHeight="50" MaxHeight="300" SizeChanged="rtb_SizeChanged" AcceptsTab="True" IsManipulationEnabled="True" ForceCursor="True" SpellCheck.IsEnabled="True" UndoLimit="1000" Cursor="" IsDocumentEnabled="True" KeyDown="rtb_KeyDown" DockPanel.Dock="Top" BorderThickness="0,0,0,1" FontFamily="Arial" FontStretch="Condensed" Block.LineHeight="1" Height="{Binding Mode=OneWay}">
                 <FlowDocument>
                     <Paragraph>
                         <Run/>
@@ -19,7 +18,7 @@
             <DockPanel Height="32" LastChildFill="False" DockPanel.Dock="Top" Margin="0,0,-282,0">
                 <DockPanel Height="32" LastChildFill="False" VerticalAlignment="Center" DockPanel.Dock="Bottom" Margin="0" HorizontalAlignment="Center">
                     <Button x:Name="button" Content="Execute" Height="30" Margin="0" Click="button_Click" Background="#FFFBFBFB" BorderBrush="#FFCFCFCF" AllowDrop="True" HorizontalContentAlignment="Center" BorderThickness="0" VerticalContentAlignment="Center" Width="100" VerticalAlignment="Center"/>
-                    <Button x:Name="button_Copy" Content="Async Execute" Height="30" Margin="10,0,0,0" Click="button_Copy_Click" Background="#FFFBFBFB" BorderBrush="#FFCFCFCF" AllowDrop="True" HorizontalContentAlignment="Center" BorderThickness="0" VerticalContentAlignment="Center" Width="100" VerticalAlignment="Center"/>
+                    <Button x:Name="button_Copy" Content="Async Execute" Height="30" Margin="10,0,0,0" Click="button_Async_Click" Background="#FFFBFBFB" BorderBrush="#FFCFCFCF" AllowDrop="True" HorizontalContentAlignment="Center" BorderThickness="0" VerticalContentAlignment="Center" Width="100" VerticalAlignment="Center"/>
                 </DockPanel>
             </DockPanel>
         </DockPanel>
