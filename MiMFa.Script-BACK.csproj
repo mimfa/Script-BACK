@@ -9,7 +9,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>MiMFa</RootNamespace>
     <AssemblyName>MiMFa Script-BACK</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <WarningLevel>4</WarningLevel>
@@ -141,13 +141,45 @@
     <Folder Include="Properties\Test\" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\AI\MiMFa.AI.csproj">
+      <Project>{3b16b0c9-d89a-4067-a4e0-0f8df29da377}</Project>
+      <Name>MiMFa.AI</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Core\MiMFa.csproj">
       <Project>{adc72cd2-885e-442a-983e-0ba87b7234ef}</Project>
       <Name>MiMFa</Name>
     </ProjectReference>
+    <ProjectReference Include="..\DataBase\MiMFa.DataBase.csproj">
+      <Project>{66f6d041-d93e-42f4-a83a-c0b74b193922}</Project>
+      <Name>MiMFa.DataBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Editor\MiMFa.Editor.csproj">
+      <Project>{ed0e2dad-4b4e-4b7c-a546-b48ada5023fc}</Project>
+      <Name>MiMFa.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Exclusive\MiMFa.Exclusive.csproj">
+      <Project>{7d8b3a64-3768-4150-b2c1-5a9b405b8c80}</Project>
+      <Name>MiMFa.Exclusive</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Interpreter\MiMFa.Interpreter.csproj">
       <Project>{d7c7a63a-c0a5-4686-86e4-3552fc7776ae}</Project>
       <Name>MiMFa.Interpreter</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Player\MiMFa.Player.csproj">
+      <Project>{9e9d92ae-d0d6-4852-a720-e33c81a34cd6}</Project>
+      <Name>MiMFa.Player</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Reporter\MiMFa.Reporter.csproj">
+      <Project>{6dd14a85-ccfc-4774-bd26-0f5772512319}</Project>
+      <Name>MiMFa.Reporter</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Technology\MiMFa.Technology.csproj">
+      <Project>{f3df1e73-2074-4d92-9ed7-b026c14eb207}</Project>
+      <Name>MiMFa.Technology</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Web\MiMFa.Web.csproj">
+      <Project>{6d7e6451-e97a-4227-9f33-eacd6dd644db}</Project>
+      <Name>MiMFa.Web</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

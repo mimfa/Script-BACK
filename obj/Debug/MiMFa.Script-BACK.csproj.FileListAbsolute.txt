@@ -55,3 +55,232 @@ D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\D
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\String\Text.js
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\System\System.js
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\View\Global.js
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Library\CanvasJS-Chart.js
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Library\Chart.js
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Library\Google-Chart.js
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Library\JQuery-SparkLine.js
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Library\JQuery.js
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Library\Math.js
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\Html\Scripts\Default.js
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\Html\Styles\Preset.css
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\Html\Styles\Reset.css
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\Html\Fonts\DUBAI-BOLD.TTF
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\Html\Fonts\DefaultFont.TTF
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\Html\Fonts\DUBAI-LIGHT.TTF
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\Html\Fonts\DUBAI-MEDIUM.TTF
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\Html\Fonts\DUBAI-REGULAR.TTF
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\Html\Styles\Default.css
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\ClearScriptV8.win-x86.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\ClearScriptV8.win-x64.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\ClearScript.Core.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\ClearScript.Core.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\ClearScript.V8.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\ClearScript.V8.ICUData.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\ClearScript.V8.ICUData.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\ClearScript.V8.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\ClearScript.Windows.Core.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\ClearScript.Windows.Core.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\ClearScript.Windows.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\ClearScript.Windows.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\Array\Array.js
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\General\Global.js
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\Html\Html.js
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\Math\Global.js
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\Math\Math.js
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\String\String.js
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\String\Text.js
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\System\System.js
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Package\View\Global.js
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Microsoft.ClearScript.V8.Native.win-x64.props
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Microsoft.ClearScript.V8.Native.win-x86.props
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\x64\SQLite.Interop.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\x86\SQLite.Interop.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Script-BACK.exe.config
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Script-BACK.exe
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Script-BACK.pdb
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.Interpreter.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\HtmlAgilityPack.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\System.Data.SQLite.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Microsoft.mshtml.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\System.ValueTuple.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Newtonsoft.Json.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.pdb
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.dll.config
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.Interpreter.pdb
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\HtmlAgilityPack.pdb
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\HtmlAgilityPack.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\System.ValueTuple.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Newtonsoft.Json.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MiMFa.Script-BACK.csproj.AssemblyReference.cache
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MainWindow.baml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MainWindow.g.cs
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MiMFa Script-BACK_Content.g.cs
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MiMFa Script-BACK_MarkupCompile.cache
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MiMFa Script-BACK.g.resources
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MiMFa.Properties.Resources.resources
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MiMFa.Script-BACK.csproj.GenerateResource.cache
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MiMFa.Script-BACK.csproj.CoreCompileInputs.cache
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MiMFa.Script-BACK.csproj.CopyComplete
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MiMFa Script-BACK.exe
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MiMFa Script-BACK.pdb
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\AxInterop.WMPLib.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Interop.WMPLib.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Exclusive\AI\Text\Processing\Language\9-Post\0-General.pt
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Exclusive\AI\Text\Processing\Language\0-Pre\0-General.pt
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Exclusive\AI\Text\Processing\Language\1-Punctuation\0-General.pt
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Exclusive\AI\Text\Processing\Language\2-Trash\0-DigitalPath.pt
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Exclusive\AI\Text\Processing\Language\2-Trash\1-DateTime.pt
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Exclusive\AI\Text\Processing\English\3-Trash\2-StopWord.pt
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Exclusive\AI\Text\Processing\English\4-Character\0-General.pt
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Exclusive\AI\Text\Processing\English\4-Character\1-English.pt
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Exclusive\AI\Text\Processing\English\9-Post\0-General.pt
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Exclusive\AI\Text\Processing\English\0-Pre\0-General.pt
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Exclusive\AI\Text\Processing\English\1-Punctuation\0-General.pt
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Exclusive\AI\Text\Processing\English\2-Smooth\0-Plural - English.pt
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Exclusive\AI\Text\Processing\English\3-Trash\0-DigitalPath.pt
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Exclusive\AI\Text\Processing\English\3-Trash\1-DateTime.pt
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Exclusive\AI\Text\Processing\English\3-Trash\3-TrashWord.pt
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Aspose.Words.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\selenium-manager\linux\selenium-manager
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\selenium-manager\macos\selenium-manager
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\CefSharp.BrowserSubprocess.exe
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\CefSharp.Core.Runtime.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\CefSharp.Core.Runtime.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\chrome_elf.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\d3dcompiler_47.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\libcef.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\libEGL.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\libGLESv2.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\LICENSE.txt
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\README.txt
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\vk_swiftshader.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\vulkan-1.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\CefSharp.Core.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\CefSharp.Core.XML
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\CefSharp.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\CefSharp.WinForms.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\CefSharp.WinForms.XML
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\CefSharp.XML
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\chrome_100_percent.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\chrome_200_percent.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\icudtl.dat
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\resources.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\snapshot_blob.bin
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\v8_context_snapshot.bin
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\vk_swiftshader_icd.json
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\af.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\am.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\ar.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\bg.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\bn.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\ca.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\cs.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\da.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\de.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\el.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\en-GB.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\en-US.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\es-419.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\es.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\et.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\fa.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\fi.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\fil.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\fr.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\gu.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\he.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\hi.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\hr.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\hu.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\id.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\it.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\ja.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\kn.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\ko.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\lt.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\lv.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\ml.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\mr.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\ms.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\nb.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\nl.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\pl.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\pt-BR.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\pt-PT.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\ro.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\ru.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\sk.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\sl.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\sr.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\sv.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\sw.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\ta.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\te.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\th.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\tr.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\uk.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\ur.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\vi.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\zh-CN.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\locales\zh-TW.pak
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\cef.redist.x86.props
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\cef.redist.x64.props
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Logo.ico
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Editor.exe
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.AI.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.DataBase.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.Exclusive.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.Report.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.Technology.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.Web.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Player.exe
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.Windows.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Svg.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\itextsharp.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\WebDriverManager.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\WebDriver.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\System.Memory.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\SharpZipLib.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\AngleSharp.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\System.Text.Json.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\System.Buffers.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\System.Text.Encodings.Web.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\System.Numerics.Vectors.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.AI.pdb
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.DataBase.pdb
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.DataBase.dll.config
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Editor.pdb
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Editor.exe.config
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.Exclusive.pdb
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.Exclusive.dll.config
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Player.pdb
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Player.exe.config
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.Report.pdb
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.Report.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.Report.dll.config
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.Technology.pdb
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.Technology.dll.config
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.Web.pdb
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.Web.dll.config
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.Windows.pdb
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.Windows.dll.config
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Svg.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\WebDriver.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\System.Memory.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\AngleSharp.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\System.Text.Json.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\System.Text.Encodings.Web.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\System.Numerics.Vectors.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MiMFa Script-BACK.exe.config
