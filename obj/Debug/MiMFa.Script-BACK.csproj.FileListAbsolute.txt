@@ -108,8 +108,6 @@ D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Newt
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.pdb
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.dll.config
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.Interpreter.pdb
-D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\HtmlAgilityPack.pdb
-D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\HtmlAgilityPack.xml
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\System.ValueTuple.xml
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Newtonsoft.Json.xml
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MiMFa.Script-BACK.csproj.AssemblyReference.cache
@@ -246,13 +244,9 @@ D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Syst
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\SharpZipLib.dll
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\ICSharpCode.SharpZipLib.dll
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\AngleSharp.dll
-D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\System.Text.Json.dll
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\System.Buffers.dll
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\System.Threading.Tasks.Extensions.dll
-D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\System.Text.Encodings.Web.dll
-D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\System.Numerics.Vectors.dll
-D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.AI.pdb
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.DataBase.pdb
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\MiMFa Framework.DataBase.dll.config
@@ -277,10 +271,9 @@ D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Syst
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\ICSharpCode.SharpZipLib.pdb
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\ICSharpCode.SharpZipLib.xml
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\AngleSharp.xml
-D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\System.Text.Json.xml
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\System.Threading.Tasks.Extensions.xml
-D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\System.Text.Encodings.Web.xml
-D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\System.Numerics.Vectors.xml
-D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
-D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\obj\Debug\MiMFa Script-BACK.exe.config
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\System.Drawing.Common.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Script-BACK\bin\Debug\ExCSS.dll
